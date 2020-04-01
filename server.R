@@ -31,7 +31,7 @@ library(shinyjs)
 
 # Register
 
-register_google("AIzaSyCe0njdz6PmWDGB0apebkX2M5Hm1Us5Mv8")
+register_google("<API code>")
 
 ### Function allowing geolocalisation
 
